@@ -1,0 +1,37 @@
+#myname{
+    color:brown;
+}
+h1{
+    color:rgba(255, 0, 0, 0.75);
+}
+span:hover{
+    background-color:#0000ff;
+    color:#ffff00;
+}
+p{ 
+    color:#a200ff;
+    font-weight:bold;
+}
+#cont:hover{
+    color:hsl(0, 63%, 37%);
+    /*color:hsl(hue, saturation, lightness)*/
+}
+#Nthg{
+    color:transparent;
+}
+#Nthg:hover{
+    color:black;
+}
+.EWSA{
+    color:brown;
+}
+
+#SIM{
+    color:currentcolor;
+}
+*{
+    background-color: rgb(182, 170, 130);
+}
+h3{
+    color:blue;
+}
